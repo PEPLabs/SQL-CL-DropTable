@@ -18,6 +18,10 @@ public class DropATable {
 
     /**
      *      Task: Drop the table "song"
+     *
+     *      NOTE: Do not change anything in this code. You should write your sql statement on a single line (do not use 
+     *            multi-line formatting) in the problem1.sql file.
+     *
      *      song Table Diagram:
      *      |      title        |        artist         |
      *      ---------------------------------------------
